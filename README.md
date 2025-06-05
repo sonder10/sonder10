@@ -15,8 +15,12 @@
 
 ###
 
-<h2 align="left">About me</h2>
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h2 align="left">About me  </p></h2>
+<p align="left">✨ Creating bugs since... <img align="right" height="150"src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnU1OWU1a2tvOXlmaTh3YnFteDJneGVsMDMzNXBuNHoydWVkdzgxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif" /><br>
+  📚 I'm currently learning ...<br>
+  🎯 Goals: ...<br>
+  🎲 Fun fact: .....
+ <p/>
 
 <h2 align="left">contact me</h2>
 <br clear="both">
@@ -102,10 +106,10 @@
 
 
 <div>
-<img align="center" height="275" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnU1OWU1a2tvOXlmaTh3YnFteDJneGVsMDMzNXBuNHoydWVkdzgxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif" /> 
-<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=2245j2fjlvxewaixbokxgzzaq" alt="Spotify recently played"  />
-<img align="center" height="275" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXYzNnRkcXVpMXdxeWRzdnVrajBqb2UyMGVucDdlaHU2ZTJyZHdscSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/mjGGSfMEHmAZ8mf41g/giphy.gif"  /> 
 
+<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=2245j2fjlvxewaixbokxgzzaq" alt="Spotify recently played"  />
+<img align="center" height="325" width="255" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXYzNnRkcXVpMXdxeWRzdnVrajBqb2UyMGVucDdlaHU2ZTJyZHdscSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/mjGGSfMEHmAZ8mf41g/giphy.gif"  /> 
+<img align="right" height="25" width="4000" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE2bzlyYjl0NHc1M2Ztd2V6YmNib29zbmhkeGN4Yjk2Zm5lbXNubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fyad3Zy4KPso5IzcL9/giphy.gif"  />
 
 </div>
 
