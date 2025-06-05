@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sonder10&locale=en&mode=daily&theme=shadow-blue&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!img src="https://github-profile-trophy.vercel.app?username=sonder10&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
 <h1 align="center">Hey 👋What's Up? </h1>
 <div align="center">
   <img src="https://v isitor-badge.laobi.icu/badge?page_id=sonder10.sonder10&"  />
@@ -5,7 +11,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Jose Ramon Figueroa Laguna and I'm a development from Mexico</p>
 
 ###
 
@@ -16,10 +22,22 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+
+  <a href="https://www.linkedin.com/in/jose-ramon-figueroa-laguna-70769720b/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  link=google.com/>
+  </a>
+  
+  <a href="https://discordapp.com/users/523706909400760321">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
+  </a>
+  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Joss.10584@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
+  </a>
+  
+  <a href="https://wa.me/528136846159?text=Hola">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
+    </a>
 </div>
 
 ###
@@ -68,21 +86,23 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonder10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_blue&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonder10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_blue&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+
+###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sonder10&locale=en&mode=daily&theme=shadow-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <!img src="https://github-profile-trophy.vercel.app?username=sonder10&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<!img src="https://github-profile-trophy.vercel.app?username=sonder10&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+<br>
+<div>
+<img align="center" height="275" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnU1OWU1a2tvOXlmaTh3YnFteDJneGVsMDMzNXBuNHoydWVkdzgxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif" /> 
+<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=2245j2fjlvxewaixbokxgzzaq" alt="Spotify recently played"  />
+<img align="center" height="275" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXYzNnRkcXVpMXdxeWRzdnVrajBqb2UyMGVucDdlaHU2ZTJyZHdscSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/mjGGSfMEHmAZ8mf41g/giphy.gif"  /> 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/sonder10/sonder10/output/snake.svg" alt="Snake animation" />
-
-###
-<div align="right">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=2245j2fjlvxewaixbokxgzzaq" alt="Spotify recently played"  />
 </div>
-
-###
 
