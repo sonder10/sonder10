@@ -98,17 +98,11 @@
 
 ###
 
-<div align="center">
-<!img src="https://github-profile-trophy.vercel.app?username=sonder10&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 <br>
-
-
-
 <div>
-
+<img align="center" height="325" width="375" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXYzNnRkcXVpMXdxeWRzdnVrajBqb2UyMGVucDdlaHU2ZTJyZHdscSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/mjGGSfMEHmAZ8mf41g/giphy.gif"  /> 
 <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=2245j2fjlvxewaixbokxgzzaq" alt="Spotify recently played"  />
-<img align="center" height="325" width="255" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXYzNnRkcXVpMXdxeWRzdnVrajBqb2UyMGVucDdlaHU2ZTJyZHdscSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/mjGGSfMEHmAZ8mf41g/giphy.gif"  /> 
+<br>
 <img align="right" height="25" width="4000" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE2bzlyYjl0NHc1M2Ztd2V6YmNib29zbmhkeGN4Yjk2Zm5lbXNubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fyad3Zy4KPso5IzcL9/giphy.gif"  />
 
 </div>
