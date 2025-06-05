@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey 👋What's Up? </h1>
 <div align="center">
-  <img src="https://v isitor-badge.laobi.icu/badge?page_id=sonder10.sonder10&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sonder10.sonder10&"  />
 </div>
 
 ###
@@ -98,6 +98,9 @@
 <!img src="https://github-profile-trophy.vercel.app?username=sonder10&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 <br>
+
+
+
 <div>
 <img align="center" height="275" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnU1OWU1a2tvOXlmaTh3YnFteDJneGVsMDMzNXBuNHoydWVkdzgxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif" /> 
 <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=2245j2fjlvxewaixbokxgzzaq" alt="Spotify recently played"  />
